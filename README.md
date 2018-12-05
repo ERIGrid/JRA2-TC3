@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/160505455.svg)](https://zenodo.org/badge/latestdoi/160505455)
+
 # ERIGrid JRA2: Test case TC3 mosaik implementation
 
 A detailed description of test case TC3 can be found in [ERIGrid deliverable D-JRA2.2](https://erigrid.eu/dissemination/).
