@@ -1,0 +1,5 @@
+; this list defines the outputs of the FMU
+
+ElmTerm.LVBus3.m:u	; Voltage of bus (LVBus3) in p.u.
+ElmTerm.LVBus4.m:u	; Voltage of bus (LVBus4) in p.u.
+

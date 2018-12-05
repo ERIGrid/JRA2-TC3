@@ -1,0 +1,5 @@
+; this list defines the inputs of the FMU
+
+ElmLodlv.Load3.plini	; Active power of load (Load3) in kW.
+ElmLodlv.Load4.plini	; Active power of load (Load4) in kW.
+ElmTr2.GridTrafo.nntap	; Tap position of transformer (GridTrafo).
