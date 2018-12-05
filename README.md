@@ -9,7 +9,7 @@ In the following, a step-by-step instruction on how to run the TC3 co-simulation
 - **Python** (test with Python 3.6.4 32-bit)
 - **PowerFactory** (tested with PowerFactory 2017 SP5 x86) and the [**FMI++ PowerFactory FMU Export Utility**](https://sourceforge.net/projects/powerfactory-fmu/)
 - **MATLAB** (tested with MATLAB R2015b 32-bit) and the [**FMI++ MATLAB Toolbox for Windows**](https://sourceforge.net/projects/matlab-fmu/)
-- **ns-3** (installed in [Cygwin](https://www.cygwin.com/) environment, see documentation for ns-3 module fmi-export) with the extra modules [**fmi-export and fmu-examples**]()
+- **ns-3** (installed in [Cygwin](https://www.cygwin.com/) environment, see documentation for ns-3 module fmi-export) with the extra modules [**fmi-export and fmu-examples**](https://erigrid.github.io/ns3-fmi-export/)
 
 **ATTENTION**: The co-simulation toolchain needs to be completely in either 32-bit or 64-bit.
 For TC3 it was decided to use consistently **32-bit** for Windows setups.
